@@ -9,6 +9,7 @@ import thread
 import time
 import sys
 
+# 创建一个糗事百科的类
 class QSBK:
     def __init__(self):
         self.page_index = 1
